@@ -1,4 +1,4 @@
-# Contributing to the Outscal Learning
+# Contributing to Outscal Learning
 
 ## CODE OF CONDUCT
 We want to ensure that we are creating a safe and respectful community for learners.
