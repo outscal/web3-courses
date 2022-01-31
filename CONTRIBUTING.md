@@ -3,7 +3,7 @@
 ## CODE OF CONDUCT
 We want to ensure that we are creating a safe and respectful community for learners.
 
-You can find our [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
+You can find our [CODE OF CONDUCT](CODE_OF_CONDUCT.md) here
 
 ## For contributors
 Thank you for contributing to Outscal Learning.
