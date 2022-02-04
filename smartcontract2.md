@@ -1,5 +1,7 @@
 # Rewarding players with web3
 
+## Introduction
+
 Web 3.0 generally refers to the next generation of the worldwide web, supposed to take over from Web2.0, which is more centralised and focused on user-created content. Web3 is supposed to be a more decentralised web that challenges the dominance of the tech giants by concentrating the power and data in the hands of the users, instead of the big tech corporations. This means that data is distributed across networks and no single entity owns the information. 
 
 This technology impacts multiple verticals but what I'm really excited about is gaming. Some of the most popular games today allow you to play alongside hundreds of other people in an online world. At the core of these games is the ability to be involved in shared experiences such as cooperative tasks and storytelling. 
